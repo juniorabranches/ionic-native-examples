@@ -7,4 +7,4 @@ This is an example of using the Ionic Framework integrating some of the device's
  
  Read the documentation [here](https://ionicframework.com/docs/native/admob-free/)
  
- ![demo](src/assets/demos/admob.mp4)
+ ![demo](src/assets/demos/admob.gif)
