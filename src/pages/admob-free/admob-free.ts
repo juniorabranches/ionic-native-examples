@@ -13,7 +13,7 @@ export class AdmobFreePage {
   constructor(private admobFree: AdMobFree, public navCtrl: NavController, public navParams: NavParams) {
     const bannerConfig: AdMobFreeBannerConfig = {
      bannerAtTop: false,
-     id: 'ca-app-pub-5867967129391518/4576815120',
+     id: 'ca-app-pub-5867967129391518/4576815120', /* YOUR BANNER ID IN ADMOB SITE */
      isTesting: false,
      autoShow: true
     };

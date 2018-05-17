@@ -14,3 +14,18 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+.title {
+   text-transform:uppercase;
+   color:#000;
+   font-family: 'Lato', sans-serif;
+   font-size: 18px;
+   text-align: center;
+}
+
+.subTitle {
+   text-transform:uppercase;
+   color:#000;
+   font-family: 'Lato', sans-serif;
+   font-size: 16px;
+   text-align: left;
+}
