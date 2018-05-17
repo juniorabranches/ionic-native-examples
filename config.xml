@@ -86,4 +86,5 @@
     <allow-navigation href="http://192.168.111.220:8100" />
     <engine name="android" spec="~7.0.0" />
     <plugin name="card.io.cordova.mobilesdk" spec="^2.1.0" />
+    <plugin name="cordova-plugin-email-composer" spec="^0.8.15" />
 </widget>

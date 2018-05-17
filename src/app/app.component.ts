@@ -21,7 +21,8 @@ export class MyApp {
       { title: 'Home', component: 'HomePage' },
       { title: 'AdMob Free', component: 'AdmobFreePage' },
       { title: 'Camera', component: 'CameraPage' },
-      { title: 'Card IO', component: 'CardIOPage' }        
+      { title: 'Card IO', component: 'CardIOPage' },
+      { title: 'Email Composer', component: 'EmailComposerPage' }             
     ];
 
   }

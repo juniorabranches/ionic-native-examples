@@ -15,6 +15,7 @@ or
  * [AdMob Free](#admob-free)
  * [Camera](#camera)
  * [Card IO](#card-io)
+ * [Email Composer](#email-composer)
 
  ## AdMob Free
 
@@ -31,3 +32,9 @@ or
  ## Card IO
 
  Read the documentation [here](https://ionicframework.com/docs/native/card-io/)
+
+ ## Email Composer
+
+ Read the documentation [here](https://ionicframework.com/docs/native/email-composer/)
+
+ ![demo](src/assets/demos/emailComposer.gif)
