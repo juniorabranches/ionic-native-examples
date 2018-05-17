@@ -5,6 +5,6 @@ This is an example of using the Ionic Framework integrating some of the device's
  
  ## AdMob Free
  
- Read the documentation [aqui](hhttps://ionicframework.com/docs/native/admob-free/)
+ Read the documentation [here](https://ionicframework.com/docs/native/admob-free/)
  
  ![demo](src/assets/demos/admob.mp4)
