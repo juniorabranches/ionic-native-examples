@@ -20,7 +20,8 @@ export class MyApp {
     this.pages = [
       { title: 'Home', component: 'HomePage' },
       { title: 'AdMob Free', component: 'AdmobFreePage' },
-      { title: 'Camera', component: 'CameraPage' }      
+      { title: 'Camera', component: 'CameraPage' },
+      { title: 'Card IO', component: 'CardIOPage' }        
     ];
 
   }
