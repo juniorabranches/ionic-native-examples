@@ -1,0 +1,49 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>Social Sharing</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <h3 class="title">
+    This is an example of using Social Sharing in Ionic Framework application.
+  </h3>
+  <br><br>
+  <h3  class="subTitle">
+  To learn more about Social Sharing, please read the documentation at <a href="https://ionicframework.com/docs/native/social-sharing/">Ionic Native Docs.</a>
+  </h3>
+  <h3 class="subTitle">
+    If you would like to contribute something, please enter the <a href="https://github.com/juniorabranches/ionic-native-examples">repository</a> and make a Pull Request, it will be well accepted.
+  </h3>
+  <br><br>
+  <div class="popup-menu">
+		<div class="popup-menu-overlay" [ngClass]="{'in': openMenu}" (click)="togglePopupMenu()"></div>
+		<div class="popup-menu-toggle" (click)="togglePopupMenu()" [ngClass]="{'out': openMenu}"></div>
+		<div class="popup-menu-panel" [ngClass]="{'in': openMenu}">
+
+			<div class="popup-menu-item" (click)="whatsappShare()">
+				<ion-icon name="logo-whatsapp"></ion-icon>
+				<span>WHATSAPP</span>
+			</div>
+
+      <div class="popup-menu-item" (click)="facebookShare()">
+				<ion-icon name="logo-facebook"></ion-icon>
+				<span>FACEBOOK</span>
+			</div>
+
+      <div class="popup-menu-item" (click)="twitterShare()">
+				<ion-icon name="logo-twitter"></ion-icon>
+				<span>TWITTER</span>
+			</div>
+
+      <div class="popup-menu-item" (click)="instagramShare()">
+				<ion-icon name="logo-instagram"></ion-icon>
+				<span>INSTAGRAM</span>
+			</div>
+
+		</div>
+	</div>
+</ion-content>

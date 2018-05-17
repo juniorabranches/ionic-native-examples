@@ -17,6 +17,7 @@ or
  * [Card IO](#card-io)
  * [Email Composer](#email-composer)
  * [Launch Navigator](#launch-navigator)
+ * [Social Sharing](#social-sharing)
 
  ## AdMob Free
 
@@ -44,4 +45,10 @@ or
 
  Read the documentation [here](https://ionicframework.com/docs/native/launch-navigator/)
 
- ![demo](src/assets/demos/launchNavigator.gif) 
+ ![demo](src/assets/demos/launchNavigator.gif)
+
+ ## Social Sharing
+
+ Read the documentation [here](https://ionicframework.com/docs/native/social-sharing/)
+
+ ![demo](src/assets/demos/socialSharing.gif)  

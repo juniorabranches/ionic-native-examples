@@ -23,7 +23,8 @@ export class MyApp {
       { title: 'Camera', component: 'CameraPage' },
       { title: 'Card IO', component: 'CardIOPage' },
       { title: 'Email Composer', component: 'EmailComposerPage' },
-      { title: 'Launch Navigator', component: 'LaunchNavigatorPage' }
+      { title: 'Launch Navigator', component: 'LaunchNavigatorPage' },
+      { title: 'Social Sharing', component: 'SocialSharingPage' }      
     ];
 
   }
