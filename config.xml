@@ -87,4 +87,5 @@
     <engine name="android" spec="~7.0.0" />
     <plugin name="card.io.cordova.mobilesdk" spec="^2.1.0" />
     <plugin name="cordova-plugin-email-composer" spec="^0.8.15" />
+    <plugin name="uk.co.workingedge.phonegap.plugin.launchnavigator" spec="^4.2.0" />
 </widget>

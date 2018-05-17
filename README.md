@@ -16,6 +16,7 @@ or
  * [Camera](#camera)
  * [Card IO](#card-io)
  * [Email Composer](#email-composer)
+ * [Launch Navigator](#launch-navigator)
 
  ## AdMob Free
 
@@ -38,3 +39,9 @@ or
  Read the documentation [here](https://ionicframework.com/docs/native/email-composer/)
 
  ![demo](src/assets/demos/emailComposer.gif)
+
+ ## Launch Navigator
+
+ Read the documentation [here](https://ionicframework.com/docs/native/launch-navigator/)
+
+ ![demo](src/assets/demos/launchNavigator.gif) 
