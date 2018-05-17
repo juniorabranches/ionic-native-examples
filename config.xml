@@ -84,5 +84,5 @@
     <plugin name="cordova-plugin-camera" spec="^4.0.3" />
     <plugin name="cordova-plugin-admob-free" spec="^0.16.2" />
     <allow-navigation href="http://192.168.111.220:8100" />
-    <engine name="android" spec="7.0.0" />
+    <engine name="android" spec="~7.0.0" />
 </widget>

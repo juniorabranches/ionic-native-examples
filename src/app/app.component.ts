@@ -19,7 +19,8 @@ export class MyApp {
     // used for an example of ngFor and navigation
     this.pages = [
       { title: 'Home', component: 'HomePage' },
-      { title: 'AdMob Free', component: 'AdmobFreePage' }
+      { title: 'AdMob Free', component: 'AdmobFreePage' },
+      { title: 'Camera', component: 'CameraPage' }      
     ];
 
   }
@@ -30,7 +31,7 @@ export class MyApp {
       // Here you can do any higher level native things you might need.
       this.statusBar.styleDefault();
       this.splashScreen.hide();
-    }); 
+    });
   }
 
   openPage(page) {
